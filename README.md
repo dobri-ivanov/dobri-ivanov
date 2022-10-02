@@ -30,7 +30,7 @@
 ## :man_technologist: About Me :
  - 🙍‍♂️ My name is Dobri Ivanov
 
- - 📍 I am form Bulgaria
+ - 📍 I am from Bulgaria
 
  - 💻 I am currently learning C# (SoftUni) 
 

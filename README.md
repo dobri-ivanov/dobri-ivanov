@@ -36,9 +36,7 @@
 
  - 💻 I'm able to work with C++, LUA, HTML, CSS
 
- - 🎨 I have solid experience in design (Photoshop)
- 
- - 💡 I worked on a project about support and developing game server (FiveM - GTA V)
+ - 🎨 I have experience in design (Photoshop)
  
  - 🌎 How to reach me:  [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xvDJm8mEjA)
 

@@ -42,8 +42,9 @@
 
 ## 📑Certificates:
  <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1019654580847517778/124984.jpg" width="35%"/>
-  <img src="https://media.discordapp.net/attachments/837093180783722536/1019654894346580048/139379.jpg" width="35%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1019654580847517778/124984.jpg" width="30%"/>
+  <img src="https://media.discordapp.net/attachments/837093180783722536/1019654894346580048/139379.jpg" width="30%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1034831429756010627/144009.jpg" width="30%"/>
 </div>
 
 ## :hammer_and_wrench: Languages and Tools :

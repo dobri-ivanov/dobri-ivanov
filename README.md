@@ -28,12 +28,12 @@
 </div>
 
 ## :man_technologist: About Me :
- - • My name is Dobri Ivanov
- - • I am from Bulgaria (Stara Zagora)
- - • I am currently learning C# (SoftUni) 
- - • I have experience in design (Photoshop)
- - • Here are my projects - ([Repositories](https://github.com/dobri-ivanov?tab=repositories))
- - • How to reach me:  [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xvDJm8mEjA)
+ - My name is Dobri Ivanov
+ - I am from Bulgaria (Stara Zagora)
+ - I am currently learning C# (SoftUni) 
+ - I have experience in design (Photoshop)
+ - Here are my projects - ([Repositories](https://github.com/dobri-ivanov?tab=repositories))
+ - How to reach me:  [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xvDJm8mEjA)
 
 ## 📑Certificates:
  <div align="center">

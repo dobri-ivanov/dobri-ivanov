@@ -61,6 +61,6 @@
 </div>
 
 ## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dobri-ivanov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dobri-ivanov&theme=radical&background=000000)](https://git.io/streak-stats)
   -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobri-ivanov)](https://github.com/anuraghazra/github-readme-stats)

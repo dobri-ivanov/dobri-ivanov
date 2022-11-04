@@ -47,10 +47,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="PS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="GITHUB" width="40" height="40"/>&nbsp;
 </div>

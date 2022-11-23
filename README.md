@@ -19,6 +19,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+</div>
+<h1 align="center" >
+  Welcome
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
 ## :man_technologist: About Me :
  - My name is Dobri Ivanov
  - I am from Bulgaria (Stara Zagora)

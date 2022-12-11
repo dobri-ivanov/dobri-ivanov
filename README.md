@@ -20,7 +20,7 @@
 
 
 ## :man_technologist: About Me :
- - My name is Dobri Ivanov
+ - My name is Dobri Ivanov | 18 years old
  - I am from Bulgaria (Stara Zagora)
  - I am currently learning C# (SoftUni) - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))
  - I have experience in design (Photoshop)

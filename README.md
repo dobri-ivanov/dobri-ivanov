@@ -28,10 +28,11 @@
  - How to reach me:  Personal Email: dobri0316@abv.bg
 
 ## 📑Certificates:
- <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1019654580847517778/124984.jpg" width="30%"/>
-  <img src="https://media.discordapp.net/attachments/837093180783722536/1019654894346580048/139379.jpg" width="30%"/>
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1034831429756010627/144009.jpg" width="30%"/>
+ <div>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1019654580847517778/124984.jpg" width="33%"/>
+  <img src="https://media.discordapp.net/attachments/837093180783722536/1019654894346580048/139379.jpg" width="33%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1034831429756010627/144009.jpg" width="33%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1052181951429222410/150766.jpg" width="33%"/>
 </div>
 
 ## Languages and Tools :

@@ -46,6 +46,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="GITHUB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL" alt="MS SQL" width="40" height="40"/>&nbsp;
 </div>
-
-## Simple statistic on my profile :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dobri-ivanov&theme=blueberry&background=000000)](https://git.io/streak-stats)

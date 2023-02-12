@@ -18,7 +18,6 @@
  </div>
 </div>
 
-
 ## :man_technologist: About Me :
  - My name is Dobri Ivanov | 18 years old
  - I am from Bulgaria (Stara Zagora)

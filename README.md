@@ -2,8 +2,8 @@
   <img src="https://cdn.discordapp.com/attachments/837093180783722536/1019666918602444850/laptop-illustration-2-removebg-preview.png" width="150"/>
   <div id="badges">
     <br></br>
-  <a href="https://discord.gg/xvDJm8mEjA">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://www.linkedin.com/in/dobri-ivanov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/dobri_.ivanov/?hl=bg">
     <img src="https://img.shields.io/badge/Instagram-critical?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>

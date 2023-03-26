@@ -28,11 +28,11 @@
 
 ## 📑Certificates:
  <div>
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1019654580847517778/124984.jpg" width="33%"/>
-  <img src="https://media.discordapp.net/attachments/837093180783722536/1019654894346580048/139379.jpg" width="33%"/>
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1034831429756010627/144009.jpg" width="33%"/>
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1052181951429222410/150766.jpg" width="33%"/>
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1077189472870998076/157881.jpg" width="33%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1019654580847517778/124984.jpg" width="24%"/>
+  <img src="https://media.discordapp.net/attachments/837093180783722536/1019654894346580048/139379.jpg" width="24%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1034831429756010627/144009.jpg" width="24%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1052181951429222410/150766.jpg" width="24%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1077189472870998076/157881.jpg" width="24%"/>
 </div>
 
 ## Languages and Tools :

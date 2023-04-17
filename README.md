@@ -37,7 +37,7 @@
 </div>
 
  <div>
-  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1097460183178948628/Database-certificate-Certiport.jpg" width="100%"/>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1097460183178948628/Database-certificate-Certiport.jpg" width="40%"/>
 </div>
 
 ## Languages and Tools :

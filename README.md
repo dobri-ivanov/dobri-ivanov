@@ -36,6 +36,10 @@
   <img src="https://cdn.discordapp.com/attachments/837093180783722536/1092806204390129674/164912.jpg" width="24%"/>
 </div>
 
+ <div>
+  <img src="https://cdn.discordapp.com/attachments/837093180783722536/1097460183178948628/Database-certificate-Certiport.jpg" width="100%"/>
+</div>
+
 ## Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;

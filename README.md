@@ -22,7 +22,6 @@
  - My name is Dobri Ivanov | 19 years old
  - I am from Bulgaria (Stara Zagora)
  - I am currently learning C# (SoftUni) - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))
- - I have experience in design (Photoshop)
  - Here are my projects - ([Repositories](https://github.com/dobri-ivanov?tab=repositories))
  - How to reach me:  Personal Email: dobri0316@abv.bg
 

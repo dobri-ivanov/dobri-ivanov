@@ -18,7 +18,7 @@
 ## :man_technologist: About Me :
  - My name is Dobri Ivanov | 20 years old
  - I am from Bulgaria (Stara Zagora)
- - I am currently working in [INDEAVR](https://indeavr.com/) as a .NET Developer
+ - I am currently working as a .NET Developer in [INDEAVR](https://indeavr.com/)
  - I graduated from SoftUni - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))
  - Here are my projects - ([Repositories](https://github.com/dobri-ivanov?tab=repositories))
  - How to reach me:  Personal Email: dobri0316@abv.bg

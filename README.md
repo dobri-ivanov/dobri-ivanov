@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/837093180783722536/1263529657937170513/png-transparent-laptop-computer-laptop-icon-flat-laptop-electronics-computer-happy-birthday-vector-images-thumbnail-removebg-preview.png?ex=669a9131&is=66993fb1&hm=4f996c15a6c97a9f90f9cb225854ebcf943c9ab99ab2c41816d3fed095dbb39f&" width="150"/>
-  <div id="badges">
+<div id="badges">
     <br></br>
   <a href="https://www.linkedin.com/in/dobri-ivanov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,10 +8,7 @@
   <a href="https://twitter.com/dobri_iivanov">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-<h1 align="center" >
-  Welcome
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
- </h1>
+  <h1 align="center" >Welcome</h1>
  </div>
 </div>
 

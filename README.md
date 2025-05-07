@@ -13,7 +13,7 @@
 </div>
 
 ## :man_technologist: About Me :
- - Dobri Ivanov | 20 years old
+ - Dobri Ivanov | 21 years old
  - From Bulgaria (Stara Zagora)
  - Currently working as a .NET Developer in [INDEAVR](https://indeavr.com/)
  - Graduated from SoftUni - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))

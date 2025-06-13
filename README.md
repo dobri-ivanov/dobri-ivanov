@@ -17,6 +17,7 @@
  - From Bulgaria (Stara Zagora)
  - Currently working as a Web Developer in [eDynamix](https://www.edynamix.com/)
  - Graduated from SoftUni - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))
+ - Studing in Paisii Hilendarski University of Plovdiv
  - Here are my projects - ([Repositories](https://github.com/dobri-ivanov?tab=repositories))
  - How to reach me:  Personal Email: dobri0316@abv.bg
 
